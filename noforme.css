@@ -1,0 +1,20 @@
+body{
+    background-color:gray ;
+}
+h1{
+    text-align:right;
+    color:rgb(95, 0, 0);
+}
+#bilde{
+    background-color: rgb(60, 255, 0) ;
+    border:solid red 5px;
+}
+img {
+    border: solid red 15px;
+  }
+table {
+    border: black 1px collapse;
+  }
+td{
+    background-color: goldenrod;
+}
