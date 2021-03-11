@@ -8,12 +8,14 @@ h1{
 #bilde{
     background-color: rgb(60, 255, 0) ;
     border:solid red 5px;
+    border-style: outset;
 }
 img {
     border: solid red 15px;
   }
-table {
-    border: black 1px collapse;
+table, th, td {
+    border: solid black 1px;
+    border-collapse: collapse;
   }
 td{
     background-color: goldenrod;
